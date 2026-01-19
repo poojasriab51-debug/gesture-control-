@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Hands: Gesture-Controlled Particle System",
+  "description": "A high-performance 3D particle system using Three.js and Gemini-powered vision to track hand gestures for dynamic shape morphing, color shifts, and physics manipulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
